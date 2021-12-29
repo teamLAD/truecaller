@@ -9,7 +9,7 @@ from threading import Thread
 Flag=0
 # flag is used to know where the input number should go 
 
-api=os.environ.get('api_token')
+api=os.environ.get('5058321152:AAGduu7HIT9wAT8hXdctESG87AAxy2ACwHA')
 
 
 logging.basicConfig(filename='bot.log',format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
